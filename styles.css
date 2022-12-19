@@ -1,0 +1,19 @@
+.title { 
+    background-color: rgb(120, 57, 55);
+    color: rgb(255, 229, 180);
+    text-align: center;
+}
+.body {
+    background-color: coral;
+}
+.heading,
+.title,
+.ulist {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 800;
+}
+.description {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
